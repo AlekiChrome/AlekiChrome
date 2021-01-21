@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![JS-gif](https://media2.giphy.com/media/l46ChKeGsmsfE3Un6/source.gif)
 <!--
 **AlekiChrome/AlekiChrome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
