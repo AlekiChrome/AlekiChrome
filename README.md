@@ -1,6 +1,6 @@
 ### Hello 👋🏾  Aloha 👋🏾  مرحبا  👋🏾
 
-[CandiceAgard.com](CandiceAgard.com)
+[Portfolio](Candiceagard.com)
 
 ![JS-gif](https://media2.giphy.com/media/l46ChKeGsmsfE3Un6/source.gif)
 <!--
