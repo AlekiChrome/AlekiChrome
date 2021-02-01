@@ -1,7 +1,7 @@
 ### Hello 👋🏾  Aloha 👋🏾  مرحبا  👋🏾
 
 - 👯 I’m looking to collaborate on ... UX/UI design with Full-stack development
-- 💬 Ask me about ... My music, photography, or martial arts
+- 💬 You can also ask me about ... My music, art,  photography, or martial arts
 
 www.CandiceAgard.com 
 
