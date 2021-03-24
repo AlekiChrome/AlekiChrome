@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate on ... UX/UI design with Full-stack development
 - 💬 You can also ask me about ... My music, art,  photography, or martial arts
 
-www.CandiceAgard.com 
+https://alekichrome.github.io/
 
 ![JS-gif](https://media2.giphy.com/media/l46ChKeGsmsfE3Un6/source.gif)
 <!--
