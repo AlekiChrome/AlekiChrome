@@ -1,7 +1,6 @@
 ### Hello 👋🏾  Aloha 👋🏾  مرحبا  👋🏾
 
-- 👯 I’m looking to collaborate on ... UX/UI design with Full-stack development
-- 💬 You can also ask me about ... My music, art,  photography, and martial arts
+- 👯 I’m looking to collaborate on ... creative front-end projects that push the boundaries of user experience and design. I'm also eager to learn and contribute to innovative work in AI and aerospace, as I’m fascinated by their potential to transform industries and drive technological advancement. Let's build something groundbreaking together!
 
 ![JS-gif](https://media2.giphy.com/media/l46ChKeGsmsfE3Un6/source.gif)
 <!--
